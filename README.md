@@ -4,7 +4,7 @@
 
 ### Grupo
 - ULLYSSES DA NOBREGA ROSENDO
-- ULLYSSES DA NOBREGA ROSENDO
+- JONATHAN MARQUES DE OLIVEIRA SILVA
 
 ### Datasets
 - Ações Fiat no período de janeiro 2015 - abril 2021
